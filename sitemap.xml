@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://frau-urlaub-on-tour.github.io/2022/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://frau-urlaub-on-tour.github.io/2022/</loc>
+</url>
+<url>
+<loc>https://frau-urlaub-on-tour.github.io/2022/home.html</loc>
+<lastmod>2022-10-02T10:25:32+02:00</lastmod>
+<image:image>
+<image:loc>https://frau-urlaub-on-tour.github.io/2022/media/posts/1/camera3c_3700x2000_1.85.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://frau-urlaub-on-tour.github.io/2022/page3.html</loc>
+<lastmod>2022-10-02T10:26:45+02:00</lastmod>
+</url>
+<url>
+<loc>https://frau-urlaub-on-tour.github.io/2022/page4.html</loc>
+<lastmod>2022-10-02T10:26:57+02:00</lastmod>
+</url>
+<url>
+<loc>https://frau-urlaub-on-tour.github.io/2022/page5.html</loc>
+<lastmod>2022-10-02T10:27:08+02:00</lastmod>
+</url>
+<url>
+<loc>https://frau-urlaub-on-tour.github.io/2022/unposed.html</loc>
+<lastmod>2022-10-02T10:27:31+02:00</lastmod>
+</url>
+</urlset>

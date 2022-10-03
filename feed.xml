@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>GALLERY TITLE HERE</title>
+    <link href="https://frau-urlaub-on-tour.github.io/2022/feed.xml" rel="self" />
+    <link href="https://frau-urlaub-on-tour.github.io/2022" />
+    <updated>2022-10-02T10:27:31+02:00</updated>
+    <author>
+        <name>author1</name>
+    </author>
+    <id>https://frau-urlaub-on-tour.github.io/2022</id>
+
+    <entry>
+        <title>002</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://frau-urlaub-on-tour.github.io/2022/page5.html"/>
+        <id>https://frau-urlaub-on-tour.github.io/2022/page5.html</id>
+
+        <updated>2022-10-02T10:27:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="4"> </div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>001</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://frau-urlaub-on-tour.github.io/2022/unposed.html"/>
+        <id>https://frau-urlaub-on-tour.github.io/2022/unposed.html</id>
+
+        <updated>2022-10-02T10:27:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="4"> </div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
